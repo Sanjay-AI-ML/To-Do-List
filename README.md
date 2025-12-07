@@ -1,98 +1,105 @@
 📝 To-Do List Application (Tkinter)
 
 A simple, clean, and fully functional desktop To-Do List application built using Python and Tkinter.
+
 This project focuses on clarity, ease of use, and complete task management — making it a great beginner-friendly yet feature-rich productivity tool.
-____________________________________________________________________________________________________________________________________________________
+________________________________________
 
 🚀 Features
+
 ✅ Task Management
 
-Add new tasks easily
+•	Add new tasks easily
 
-Delete selected tasks
+•	Delete selected tasks
 
-Mark tasks as completed
+•	Mark tasks as completed
 
-Clear all tasks when needed
+•	Clear all tasks when needed
 
 🗂️ Two-Tab Layout
 
-Tasks to Complete – view all pending tasks
+•	Tasks to Complete – view all pending tasks
 
-Completed Tasks – view all tasks you’ve finished
+•	Completed Tasks – view all tasks you’ve finished
 
 This clear separation helps users track progress visually.
 
 💾 Save & Load Tasks
 
-Save tasks to JSON files with automatic date + numbering
+•	Save tasks to JSON files with automatic date + numbering
 
-Load any saved session back into the app
+•	Load any saved session back into the app
 
-Keeps both "pending" and "completed" sections intact
+•	Keeps both "pending" and "completed" sections intact
 
 📁 Automatic Save Directory
 
 Creates a folder (To_Do_Saves/) if it doesn’t exist and stores all save files neatly.
-____________________________________________________________________________________________________________________________________________________
+________________________________________
 
 🔧 Technologies Used
 
-Python 3.x
+•	Python 3.x
 
-Tkinter (built-in GUI library)
+•	Tkinter (built-in GUI library)
 
-JSON for file storage
+•	JSON for file storage
 
-OS & Datetime modules for file handling and auto-naming
-____________________________________________________________________________________________________________________________________________________
+•	OS & Datetime modules for file handling and auto-naming
 
+________________________________________
 🎯 Purpose of the Project
 
 This project was built to practice:
 
-GUI application development in Python
+•	GUI application development in Python
 
-Event-driven programming
+•	Event-driven programming
 
-File handling (JSON save/load)
+•	File handling (JSON save/load)
 
-Clean code structuring and function separation
+•	Clean code structuring and function separation
 
-Tkinter layout management (Frames, LabelFrames, Grid System)
+•	Tkinter layout management (Frames, LabelFrames, Grid System)
 
 It’s a great portfolio-friendly project showcasing both GUI design and functional logic.
-____________________________________________________________________________________________________________________________________________________
+________________________________________
 
 📦 How to Run
 
-Install Python 3.x
-
-Run the script:
-
-python todo_app.py
-
-The GUI window opens immediately—no external modules required.
-____________________________________________________________________________________________________________________________________________________
-
+1.	Install Python 3.x
+  
+2.	Run the script:
+3.	
+    	python todo_app.py
+  	
+  	The GUI window opens immediately—no external modules required.
+________________________________________
 🗃️ Folder Structure (Recommended)
+
 ToDo-App/
+
 │
-├── todo_app.py                 # Main GUI file
+
+├── app.py                 # Main GUI file
+
+├── todo_functions.py      # All logic functions
 
 ├── README.md
 
 └── To_Do_Saves/           # Auto-created save directory
-____________________________________________________________________________________________________________________________________________________
 
+________________________________________
 🌟 Why This Project Stands Out
 
-Fully standalone (no extra installations)
+•	Fully standalone (no extra installations)
 
-Easy for others to clone and run
+•	Easy for others to clone and run
 
-Clean UI with task organization
+•	Clean UI with task organization
 
-Real-world functionality
+•	Real-world functionality
 
-Good demonstration of Python GUI and file handling skills
+•	Good demonstration of Python GUI and file handling skills
+
