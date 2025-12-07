@@ -5,10 +5,10 @@ ________________________________________
 
 🚀 Features
 ✅ Task Management
-  •	Add new tasks easily
-  •	Delete selected tasks
-  •	Mark tasks as completed
-  •	Clear all tasks when needed
+  •	Add new tasks easily.
+  •	Delete selected tasks.
+  •	Mark tasks as completed.
+  •	Clear all tasks when needed.
 🗂️ Two-Tab Layout
   •	Tasks to Complete – view all pending tasks
   •	Completed Tasks – view all tasks you’ve finished
