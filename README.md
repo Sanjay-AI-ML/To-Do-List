@@ -2,17 +2,18 @@
 
 A simple, clean, and fully functional desktop To-Do List application built using Python and Tkinter.
 This project focuses on clarity, ease of use, and complete task management — making it a great beginner-friendly yet feature-rich productivity tool.
+____________________________________________________________________________________________________________________________________________________
 
 🚀 Features
 ✅ Task Management
 
-Add new tasks easily
-
-Delete selected tasks
-
-Mark tasks as completed
-
-Clear all tasks when needed
+  Add new tasks easily
+  
+  Delete selected tasks
+  
+  Mark tasks as completed
+  
+  Clear all tasks when needed
 
 🗂️ Two-Tab Layout
 
