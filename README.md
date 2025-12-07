@@ -7,13 +7,13 @@ ________________________________________________________________________________
 🚀 Features
 ✅ Task Management
 
-  Add new tasks easily
-  
-  Delete selected tasks
-  
-  Mark tasks as completed
-  
-  Clear all tasks when needed
+Add new tasks easily
+
+Delete selected tasks
+
+Mark tasks as completed
+
+Clear all tasks when needed
 
 🗂️ Two-Tab Layout
 
@@ -34,6 +34,7 @@ Keeps both "pending" and "completed" sections intact
 📁 Automatic Save Directory
 
 Creates a folder (To_Do_Saves/) if it doesn’t exist and stores all save files neatly.
+____________________________________________________________________________________________________________________________________________________
 
 🔧 Technologies Used
 
@@ -44,6 +45,7 @@ Tkinter (built-in GUI library)
 JSON for file storage
 
 OS & Datetime modules for file handling and auto-naming
+____________________________________________________________________________________________________________________________________________________
 
 🎯 Purpose of the Project
 
@@ -60,6 +62,7 @@ Clean code structuring and function separation
 Tkinter layout management (Frames, LabelFrames, Grid System)
 
 It’s a great portfolio-friendly project showcasing both GUI design and functional logic.
+____________________________________________________________________________________________________________________________________________________
 
 📦 How to Run
 
@@ -69,16 +72,16 @@ Run the script:
 
 python todo_app.py
 
-
 The GUI window opens immediately—no external modules required.
+____________________________________________________________________________________________________________________________________________________
 
 🗃️ Folder Structure (Recommended)
 ToDo-App/
 │
-├── app.py                 # Main GUI file
-├── todo_functions.py      # All logic functions
+├── todo_app.py                 # Main GUI file
 ├── README.md
 └── To_Do_Saves/           # Auto-created save directory
+____________________________________________________________________________________________________________________________________________________
 
 🌟 Why This Project Stands Out
 
