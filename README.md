@@ -2,6 +2,7 @@
 
 A simple, clean, and fully functional desktop To-Do List application built using Python and Tkinter.
 This project focuses on clarity, ease of use, and complete task management — making it a great beginner-friendly yet feature-rich productivity tool.
+____________________________________________________________________________________________________________________________________________________
 
 🚀 Features
 ✅ Task Management
@@ -33,6 +34,7 @@ Keeps both "pending" and "completed" sections intact
 📁 Automatic Save Directory
 
 Creates a folder (To_Do_Saves/) if it doesn’t exist and stores all save files neatly.
+____________________________________________________________________________________________________________________________________________________
 
 🔧 Technologies Used
 
@@ -43,6 +45,7 @@ Tkinter (built-in GUI library)
 JSON for file storage
 
 OS & Datetime modules for file handling and auto-naming
+____________________________________________________________________________________________________________________________________________________
 
 🎯 Purpose of the Project
 
@@ -59,6 +62,7 @@ Clean code structuring and function separation
 Tkinter layout management (Frames, LabelFrames, Grid System)
 
 It’s a great portfolio-friendly project showcasing both GUI design and functional logic.
+____________________________________________________________________________________________________________________________________________________
 
 📦 How to Run
 
@@ -67,16 +71,17 @@ Install Python 3.x
 Run the script:
 
 python todo_app.py
-
+____________________________________________________________________________________________________________________________________________________
 
 The GUI window opens immediately—no external modules required.
 
 🗃️ Folder Structure (Recommended)
 ToDo-App/
 │
-├── app.py                 # Main GUI file
+├── todo_app.py                # Main GUI file
 ├── README.md
-└── To_Do_Saves/           # Auto-created save directory
+└── To_Do_Saves/               # Auto-created save directory
+____________________________________________________________________________________________________________________________________________________
 
 🌟 Why This Project Stands Out
 
@@ -89,3 +94,4 @@ Clean UI with task organization
 Real-world functionality
 
 Good demonstration of Python GUI and file handling skills
+____________________________________________________________________________________________________________________________________________________
