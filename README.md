@@ -1,6 +1,8 @@
-# 📝 To-Do List Application (Tkinter)
+# To-Do List Application (Tkinter)
 
-A simple, clean, and fully functional desktop To-Do List application built using Python and Tkinter. This project focuses on clarity, ease of use, and complete task management — making it a great beginner-friendly yet feature-rich productivity tool.
+![Python](https://img.shields.io/badge/python-3.11-blue?logo=python&logoColor=white) ![Tkinter](https://img.shields.io/badge/gui-tkinter-blue) ![JSON](https://img.shields.io/badge/storage-json-blue) ![Recovery](https://img.shields.io/badge/recovery-crash--safe-green)
+
+A simple, clean, and fully functional desktop To-Do List application built using Python and Tkinter. This project focuses on clarity, ease of use, and complete task management with backup recovery.
 
 ---
 
